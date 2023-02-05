@@ -10,7 +10,7 @@ Hlekkir vísa á 3D preview!
 
 ![V1](https://github.com/bjornthor21/UUPin/blob/main/pics/2Dv1.png)
 
-## [V3](https://github.com/bjornthor21/UUPin/blob/main/2DPIN.stl)
+## [V3](https://github.com/bjornthor21/UUPin/blob/main/2Dyear.stl)
 
 ![V3](https://github.com/bjornthor21/UUPin/blob/main/pics/2DV2.png)
 
